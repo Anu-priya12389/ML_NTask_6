@@ -1,4 +1,4 @@
-hishing URL Detection Using Decision Tree
+Phishing URL Detection Using Decision Tree
 Project Overview
 This project uses a Decision Tree Classifier to identify phishing URLs and distinguish them from legitimate URLs. The notebook uses numeric features from the PhiUSIIL Phishing URL Dataset to train and evaluate a machine learning model.
 Objectives
